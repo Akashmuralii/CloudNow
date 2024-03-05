@@ -1,0 +1,9 @@
+.errorMessage {
+  /* background-color: red; */
+  color: red;
+  /* width: 180px; */
+  text-align: center;
+}
+.addUserCont {
+  text-align: center;
+}
